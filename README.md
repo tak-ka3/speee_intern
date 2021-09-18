@@ -8,10 +8,10 @@
 
 ## メンバー
 
+<a title="EllePeng" href="https://github.com/tak-ka3"><img src="https://avatars.githubusercontent.com/u/63624070?v=4" width="60" alt="profile picture of EllePeng"></a>
 <a title="Saul Mirone" href="https://github.com/lowzzy"><img src="https://avatars.githubusercontent.com/u/60597773?v=4" width="60" alt="profile picture of Saul Mirone"></a>
 <a title="Meo" href="https://github.com/AmiYamamot0"><img src="https://avatars.githubusercontent.com/u/47714983?v=4" width="60" alt="profile picture of Meo"></a>
 <a title="xia" href="https://github.com/RS3030"><img src="https://avatars.githubusercontent.com/u/69951513?v=4" width="60" alt="profile picture of xiadd"></a>
-<a title="EllePeng" href="https://github.com/tak-ka3"><img src="https://avatars.githubusercontent.com/u/63624070?v=4" width="60" alt="profile picture of EllePeng"></a>
 
 ## スクリーンショット
 <img width="700" alt="スクリーンショット 2021-09-17 16 17 00" src="https://user-images.githubusercontent.com/69951513/133740977-1e62e368-3483-40a4-9642-17e4d052b2f6.png">
